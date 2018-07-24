@@ -32,4 +32,5 @@
     <comment></comment>
     <languageCode>uk</languageCode>
   </languages>
+  <constants>Constant.Константа1</constants>
 </mdclass:Configuration>
