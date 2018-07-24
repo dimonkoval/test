@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a4f6989f-8a20-4cb1-be18-d7f11f1169fe">
+  <name>Конфігурація</name>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="dcb86312-ead7-4de1-a17a-a6e8b00dc9da"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="971ab3dd-3afc-4f2b-b29f-8ab9ecd363c2"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="90cdd3ec-5789-47cf-a3ac-d4ba191a491c"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="7ad16634-66e4-45e4-b0c8-78f5ef5f8bc8"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="1b03b0fa-622f-4eeb-b10b-46f7204e55a3"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="89994ea9-970c-467d-b3ad-58e308c987d7"/>
+  <namePrefix></namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.10</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <defaultLanguage>Language.Українська</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="5015c1d2-ee3c-47dc-aad0-7158f816a447">
+    <name>Українська</name>
+    <synonym>
+      <key>uk</key>
+      <value>Українська</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>uk</languageCode>
+  </languages>
+</mdclass:Configuration>
