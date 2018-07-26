@@ -34,6 +34,7 @@
   </languages>
   <constants>Constant.Константа1</constants>
   <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.Контрагент</catalogs>
   <documents>Document.Документ1</documents>
   <enums>Enum.Перечисление1</enums>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
