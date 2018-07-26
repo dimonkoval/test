@@ -34,4 +34,5 @@
   </languages>
   <constants>Constant.Константа1</constants>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик</chartsOfCharacteristicTypes>
 </mdclass:Configuration>

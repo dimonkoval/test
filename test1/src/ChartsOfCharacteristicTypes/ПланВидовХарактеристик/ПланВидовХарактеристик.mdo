@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCharacteristicTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="42ca31de-1f4a-4a9e-ad3f-55feda7e5dca">
+  <producedTypes>
+    <objectType typeId="d9611fb6-3fc5-4764-80d2-b84eccc52f4a" valueTypeId="7681adf4-2c3d-4669-a792-5eda5b306890"/>
+    <refType typeId="43d8bf4c-d0fe-45a5-b29d-a8aa6c68c61c" valueTypeId="9e8802a5-9af8-42bc-a170-ffbb823bea1c">
+      <emptyRef/>
+    </refType>
+    <selectionType typeId="f7c75ddb-e940-496e-9087-7549e60ceb69" valueTypeId="4b2c6f60-c2e4-4245-93ea-36ebd13c8606"/>
+    <listType typeId="8c5071c1-ac35-4f1a-abb3-f5d6e28b0de9" valueTypeId="70accf3a-f697-434d-9995-a2f761ea70f2"/>
+    <managerType typeId="a5b07eb0-454f-49a7-93cc-d71de6c5fc97" valueTypeId="c5485268-08de-461b-98a4-ba878dd28b17"/>
+    <containerType typeId="551d98cc-ff8c-4cc8-a2d4-c73c89fa61d0" valueTypeId="b55049a4-aa8e-4385-af07-3ac41d621197"/>
+  </producedTypes>
+  <name>ПланВидовХарактеристик</name>
+  <synonym>
+    <key>uk</key>
+    <value>План видов характеристик</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCharacteristicTypes.ПланВидовХарактеристик.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCharacteristicTypes.ПланВидовХарактеристик.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>BothWays</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ChartOfCharacteristicTypes>
