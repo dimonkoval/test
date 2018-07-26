@@ -33,4 +33,5 @@
     <languageCode>uk</languageCode>
   </languages>
   <constants>Constant.Константа1</constants>
+  <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>
