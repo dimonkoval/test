@@ -37,5 +37,6 @@
   <documents>Document.Документ1</documents>
   <enums>Enum.Перечисление1</enums>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
+  <informationRegisters>InformationRegister.РегистрСведений</informationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик</chartsOfCharacteristicTypes>
 </mdclass:Configuration>
