@@ -14,4 +14,18 @@
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="c1694d56-a461-40b8-8e8a-4f95ea7ae16f">
+    <name>ЗначениеПеречисления</name>
+    <synonym>
+      <key>uk</key>
+      <value>Значение перечисления</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="70a96c78-2d1c-4b00-9712-cde48e75f957">
+    <name>ЗначениеПеречисления2</name>
+    <synonym>
+      <key>uk</key>
+      <value>Значение перечисления2</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
