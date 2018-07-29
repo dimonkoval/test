@@ -32,6 +32,7 @@
     <comment></comment>
     <languageCode>uk</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик</chartsOfCharacteristicTypes>
 </mdclass:Configuration>
