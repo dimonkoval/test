@@ -33,6 +33,8 @@
     <languageCode>uk</languageCode>
   </languages>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <constants>Constant.Константа</constants>
+  <enums>Enum.Перечисление</enums>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик</chartsOfCharacteristicTypes>
 </mdclass:Configuration>
