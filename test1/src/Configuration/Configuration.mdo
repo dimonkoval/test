@@ -34,6 +34,7 @@
   </languages>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <enums>Enum.Перечисление</enums>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик</chartsOfCharacteristicTypes>
